@@ -14,6 +14,6 @@ Steps:
 
 3) Make sure You have server configured . for any issue refer this https://stackoverflow.com/questions/9237751/unable-to-associate-project-with-a-runtime-server-in-eclipse-ide . 
 
-4)Now right click on your project -> Run as -> 1 run on server. It will take some time to execute .
+4.Now right click on your project -> Run as -> 1 run on server. It will take some time to execute .
 
 5) After project executes browse multiple files and submit. They will get stored in s:\abc folder.
